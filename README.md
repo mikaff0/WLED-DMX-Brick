@@ -11,4 +11,4 @@ NC3MAAH
 
 All in a 3D printed box. https://www.printables.com/model/1100733-dmx-wled-brick
 
-![alt text](https://github.com/mikaff0/WLED-DMX-Brick/blob/a900dee916d371bfa32936abd36eebf4c6e26d60/Images/20241207_210559.jpg)
+![alt text](/Images/20241207_210559.jpg)
