@@ -1,0 +1,1 @@
+{"source_id":"0","branch":{"type":"branch","bname":"main"},"enviroment":"nodemcuv2","username":"wled","reponame":"WLED","details":[],"settings":[],"usermods":[],"envtextfield":"[env:custom_build]\nextends = env:nodemcuv2","hacks":[]}
