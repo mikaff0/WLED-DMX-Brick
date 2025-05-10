@@ -12,3 +12,23 @@ NC3MAAH
 All in a 3D printed box. https://www.printables.com/model/1100733-dmx-wled-brick
 
 ![alt text](/Images/20241207_210559.jpg)
+
+Detailed guilding guide:
+
+Flash the ESP32-S3:
+You can flash it with https://wled-compile.github.io/.
+You can load my configuration from the file 'WLED_compile_DMX-Brick.json'.
+Start the build and flash the ESP.
+
+Build the 'Brick':
+Print the case from printables.
+I connect all components with thin enameled wire but you also can use other wires.
+Connection scheem:
+Comming Soon
+
+Configure the WLED instance:
+Config the pin to the transceiver as the DMX Out pin.
+Config the pin to the DE pin of the transceiver as the LED Relay or an LED Switch.
+Config the DMX Chanels as you preferre.
+Adding some LEDs, wich has the chanels of your DMX Chanel Config.
+Notice that WLED is realy limited with the DMX settings.
