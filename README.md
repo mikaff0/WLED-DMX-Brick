@@ -24,7 +24,7 @@ Build the 'Brick':
 Print the case from printables.
 I connect all components with thin enameled wire but you also can use other wires.
 Connection scheem:
-Comming Soon
+![alt text](/Images/WLED-DMX-Brick-Rev0_Schaltplan.jpg)
 
 Configure the WLED instance:
 Config the pin to the transceiver as the DMX Out pin.
