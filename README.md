@@ -28,7 +28,7 @@ You can load my configuration from the file 'WLED_compile_DMX-Brick.json'.
 4. I connect all components with thin enameled wire but you also can use other wires.
 
 ### Connection scheme:
-![alt text](/Images/WLED-DMX-Brick-Rev0_Schaltplan.jpg)
+![alt text](/Images/WLED-DMX-Brick_Schaltplan.jpg)
 
 ### Configure the WLED instance:
 1. The config of the data pin to the transceiver is hardcoded to pin 2
