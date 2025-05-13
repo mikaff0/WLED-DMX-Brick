@@ -23,7 +23,7 @@ Start the build and flash the ESP.
 Build the 'Brick':
 Print the case from printables.
 I connect all components with thin enameled wire but you also can use other wires.
-Connection scheem:
+Connection scheme:
 ![alt text](/Images/WLED-DMX-Brick-Rev0_Schaltplan.jpg)
 
 Configure the WLED instance:
