@@ -12,7 +12,7 @@ I used:
 
 All in a 3D printed box. https://www.printables.com/model/1100733-dmx-wled-brick
 
-![alt text](/Images/20241207_210559.jpg)
+![DMX Brick](/Images/20241207_210559.jpg)
 
 ## Detailed guilding guide:
 
@@ -28,7 +28,8 @@ You can load my configuration from the file 'WLED_compile_DMX-Brick.json'.
 4. I connect all components with thin enameled wire but you also can use other wires.
 
 ### Connection scheme:
-![alt text](/Images/WLED-DMX-Brick_Schaltplan.jpg)
+![schematic](/Images/WLED-DMX-Brick_Schaltplan.jpg)
+![build image](Images/20241208_161445.jpg)
 
 ### Configure the WLED instance:
 1. The config of the data pin to the transceiver is hardcoded to pin 2
