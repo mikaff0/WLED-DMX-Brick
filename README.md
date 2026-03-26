@@ -37,7 +37,8 @@ lib_deps = ${esp32s3.lib_deps}
 board_build.partitions = ${esp32.default_partitions}
 board_build.f_flash = 80000000L
 board_build.flash_mode = qio
-monitor_filters = esp32_exception_decode```
+monitor_filters = esp32_exception_decode
+```
 
 1. Start the build and flash the ESP.
 2. Build the 'Brick':
